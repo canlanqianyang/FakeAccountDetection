@@ -20,8 +20,8 @@ Here is the tutorial:[https://scikit-learn.org/stable/modules/generated/sklearn.
 
 ## Result
 >id;name;verified;followers_count;follow_count;post_count;hot_blog_count;is_spammer<br>
->5286921976;梦想导师JJ的小粉丝;0;31;41;62;8;0<br>
+>6349014467;优秀图;1;6953;6152;343;100;0<br>
 >6937931818;美人天下992;0;55;2947;6;0;1<br>
 
 In result file, "1" in the last column means the user is spammer, and "0" means the normal user.
-![](https://github.com/canlanqianyang/FakeAccountDetection/blob/master/pic.png)
+![](https://github.com/canlanqianyang/FakeAccountDetection/blob/master/pic.PNG)
