@@ -19,8 +19,8 @@ Here is the tutorial:[https://scikit-learn.org/stable/modules/generated/sklearn.
 * data/preResult.txt: result file.
 
 ## Result
->id;name;verified;followers_count;follow_count;post_count;hot_blog_count;is_spammer
->5286921976;梦想导师JJ的小粉丝;0;31;41;62;8;0
->3266018363;美丽你的一切;0;917;4694;1618;44;1
+>id;name;verified;followers_count;follow_count;post_count;hot_blog_count;is_spammer<br>
+>5286921976;梦想导师JJ的小粉丝;0;31;41;62;8;0<br>
+>3266018363;美丽你的一切;0;917;4694;1618;44;1<br>
 
 In result file, "1" in the last column means the user is spammer, and "0" means the normal user.
